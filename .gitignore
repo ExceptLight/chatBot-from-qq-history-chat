@@ -1,7 +1,9 @@
 /history/*
 /parse_history/*
 /abstract/*
+readmeLocal.md
 
 !history/.gitkeep
 !parse_history/.gitkeep
 !abstract/.gitkeep
+
