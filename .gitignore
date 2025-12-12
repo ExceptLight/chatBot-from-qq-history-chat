@@ -1,3 +1,7 @@
 /history/*
 /parse_history/*
 /abstract/*
+
+!history/.gitkeep
+!parse_history/.gitkeep
+!abstract/.gitkeep
